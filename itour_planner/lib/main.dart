@@ -7,7 +7,7 @@ import 'package:itour_planner/Screens/navigate_screens.dart';
 import 'package:provider/provider.dart';
 import 'Screens/splash_screen.dart';
 import 'FirebaseServices/authentication_service.dart';
-
+//main of itour plannner
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
